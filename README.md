@@ -6,6 +6,8 @@ _Author: Zhou Zhihao,Harbin Institute of Technology_
 **This program is used for result reproduction and further research.
 This paper proposes an open-world fault diagnosis framework for gas turbines that integrates deep evidential learning and scalable prototype learning. Comprehensive experiments on a simulated three-shaft gas turbine system demonstrate that the proposed method achieves superior performance in unknown fault rejection, clustering accuracy, and continuous model updating compared with existing approaches. The experimental results confirm the effectiveness, scalability, and interpretability of the proposed framework under various unknown fault scenarios. 
 
+The experiment2_seed2031_release folder contains the materials prepared for the manuscript revision and reproduces the single-seed results reported in the manuscript.
+
 Since this research has just been submitted, this address is only for the peer review process. The password for unzipping the program files can be found in the manuscript.
 
 If you are interested in the method, please contact this email address. We will send you the complete program. 
